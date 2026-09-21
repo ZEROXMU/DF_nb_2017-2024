@@ -35,7 +35,7 @@ Time Period: January 1, 2017 - December 31, 2024
 
 ## Quick Start
 1. Download `Figshare.xlsx`, `Figshare.ipynb`, `de-identified data.xlsx`, and `gadm41_ningbo_2.json` from Figshare.
-2. Refer to the 'environment_info.txt' file to configure the environment and install the Python program.
+2. Refer to the `environment_info.txt` file to configure the environment and install the Python program.
 3. Open `Figshare.ipynb` in Jupyter Notebook.
 4. Run the notebook cells with the relevant data files to reproduce the main study visualizations and results.
 5. Researchers may modify the code or use the de-identified dataset for additional analyses and teaching purposes, subject to the terms of the license and applicable regulations.
