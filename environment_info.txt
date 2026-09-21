@@ -1,0 +1,22 @@
+Reproducibility environment
+==============================
+Python version: 3.12.7 packaged by Anaconda
+Platform: Windows-11
+
+Jupyter package versions:
+  jupyter: 1.0.0
+  jupyterlab: 4.2.5
+  notebook: 7.2.2
+  ipykernel: 6.28.0
+  nbformat: 5.10.4
+
+Required package versions:
+
+ numpy==1.26.4
+ pandas==2.2.3
+ matplotlib==3.11.0
+ seaborn==0.13.2
+ scipy==1.13.1
+ statsmodels==0.14.6
+ lmfit==1.3.3
+ scikit-learn==1.9.0
